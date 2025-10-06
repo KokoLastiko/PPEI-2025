@@ -1,1 +1,2 @@
 #Journal de bord du projet encadré
+##Premier Journal de bord, j'ai essayé de régler un problème audio sur mon pc apparu depuis l'installation d'Ubunutu. Linux détecte mal mes hauts parleurs et seul un bruit aigu en sort... J'ai installé pulseaudio pour avoir plus de détail mais toujours pas de solution. Pour l'exercice je pense l'avoir fait sans accro, j'ai vite compris qu'il fallait faire "git pull" et tout marchait comme dit dans le document.

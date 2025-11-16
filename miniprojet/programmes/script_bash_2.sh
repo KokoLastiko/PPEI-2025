@@ -23,7 +23,10 @@ cat > "$HTML_FILE" << EOF
         tr:nth-child(even) {background-color: #fafafa;}
     </style>
   </head>
-  <body>
+  <body {
+  background-color: #ff5d3d;
+  font-family: Arial, sans-serif;
+}>
    <h1>Résultats d’analyse des URLs</h1>
     <table>
      <tr><th>#</th><th>URL</th><th>Code HTTP</th><th>Encodage</th><th>Nombre de mots</th></tr>

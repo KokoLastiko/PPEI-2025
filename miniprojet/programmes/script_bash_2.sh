@@ -13,6 +13,7 @@ cat > "$HTML_FILE" << EOF
 <html>
 <head>
 <meta charset="UTF-8">
+<link rel="stylesheet" ref="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"< /> 
     <title>Résultats d’analyse des URLs</title>
     <style>
         body {font-family: Arial, sans-serif; margin: 15px; }

@@ -13,7 +13,7 @@ body {
 
 button, .button {
   background: white;
-  padding: 200px 40px;
+  padding: 20px 40px;
   border-radius: 4px;
   box-shadow: 0 4px 15px rgba(0,0,0,0.1);
   text-align: center;

@@ -25,8 +25,8 @@ cat > "$HTML_FILE" << EOF
   </head>
   <body>
    <style>
-  background-color: #ff5d3d;
-  font-family: Arial, sans-serif;
+  {background-color: #ff5d3d;}
+  {font-family: Arial, sans-serif;}
    </style>
    <h1>Résultats d’analyse des URLs</h1>
     <table>
